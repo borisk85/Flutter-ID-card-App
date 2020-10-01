@@ -1,4 +1,4 @@
-# ninja_id
+# ID card app
 
 A new Flutter project.
 
